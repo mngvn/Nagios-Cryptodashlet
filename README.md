@@ -34,7 +34,8 @@ $baseUrl = "http://YOUR_NAGIOS_XI_IP/nagiosxi/api/v1/objects";
 To find your API key: Nagios XI → Admin → API → API Key.
 
 ### 3. Register the dashlet (if not auto-detected)
-Nagios XI → Admin → Manage Dashlets → click **Update Dashlets**.
+Nagios XI → Admin → Manage Dashlets → click **upload and install**.
+(Then zip and upload dashlet)
 
 ### 4. Add to a Dashboard
 Go to any Dashboard → Edit → Add Dashlet → search "CryptoDash".
